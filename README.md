@@ -13,3 +13,8 @@ This is a simple command-line application to manage and display information abou
 3. Run the script: `python mokedex.py`.
 
 ## Example Usage:
+Add your Beast! Name > Dragon Type > Fire HP > 150 MP > 100 Beast added successfully!
+
+
+## License
+This project is open-source and available under the [MIT License](LICENSE).
